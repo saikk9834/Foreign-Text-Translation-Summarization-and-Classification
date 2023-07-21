@@ -22,15 +22,13 @@ This NLP (Natural Language Processing) project aims to provide a comprehensive s
 
 ### Usage
 
-1. Prepare the input Hindi articles that you want to translate, summarize, and classify. Save them in a text file (e.g., `input_articles.txt`), with one article per line.
+1. Open the Jupyter Notebook nlp_project.ipynb in your Jupyter environment.
 
-2. Run the main script to perform translation, summarization, and classification:
+2. Prepare the input Hindi articles that you want to translate, summarize, and classify. Save them in a text file (e.g., input_articles.txt), with one article per line.
 
-```bash
-python nlp_project.py --input input_articles.txt --output output_results.txt
-```
+3. Execute the notebook cells one by one to load the models and define the necessary functions.
 
-3. The translated, summarized, and classified results will be saved in the `output_results.txt` file.
+4. Run the cell that reads the input file and processes the articles:
 
 ## Model Training
 
