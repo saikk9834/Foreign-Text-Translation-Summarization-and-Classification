@@ -2,13 +2,13 @@
 
 ## Overview
 
-This NLP (Natural Language Processing) project aims to provide a comprehensive solution for translating Hindi articles into English, summarizing the translated content, and classifying the articles into one of five predetermined categories. The project combines various NLP techniques and machine learning models to deliver accurate and efficient results for multilingual text processing.
+This NLP (Natural Language Processing) project aims to provide a comprehensive solution for translating Hindi articles into English, summarizing the translated content, and classifying the articles into one of five predetermined categories - Entertainment, Tech, Sports, Politics, Business. The project combines various NLP techniques and machine learning models to deliver accurate and efficient results for multilingual text processing.
 
 ## Features
 
 - Translation of Hindi articles into English
 - Summarization of translated content for concise understanding
-- Classification of articles into five pre-defined categories
+- Classification of articles into five pre-defined categories - Entertainment, Tech, Sports, Politics, Business
 - Support for handling multiple articles simultaneously
 - High accuracy and performance for efficient processing
 
